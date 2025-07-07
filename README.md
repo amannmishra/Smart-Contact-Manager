@@ -27,18 +27,5 @@ Easily add, view, update, delete, and search contacts with Google login and data
 
 ---
 
-## 📸 Screenshots
 
-### 🔐 Login Page
-![Login Page](./screenshots/login.png)
-
-### 👤 User Profile Page
-![Profile Page](./screenshots/profile.png)
-
-### 📇 Contact List with Search & Export
-![Contact List](./screenshots/contacts.png)
-
-> 📁 Save these images in a folder named `screenshots` inside your project root.
-
----
 
